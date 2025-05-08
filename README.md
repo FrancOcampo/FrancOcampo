@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## From Argentina, Currently Studying Systems Engineering, Machine Learning and Data Science, looking for partners to enrich the learning process. 😊🙌
-#Fun Fact: I like Cars, Math, Formula One and NBA, and a wide variety of music, old and new. Manage languages as C, C++ and Arduino.
+#Fun Fact: I like Cars, Math, Formula One and NBA, and a wide variety of music, old and new. Manage languages as C, C++, Java, Python and Frameworks like SpringBoot.
 
 <!--
 **FrancOcampo/FrancOcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
